@@ -1,0 +1,8 @@
+1. Surface irrigation
+2. Localized irrigation
+3. Drip irrigation
+4. Sprinkler irrigation
+5. Center pivot irrigation
+6. Lateral move irrigation
+7. Sub-irrigation
+8. Manual irrigation
